@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "acadque-app"
+  },
+  "targets": {
+    "acadque-app": {
+      "hosting": {
+        "acadque-app": [
+          "acadque-app"
+        ]
+      }
+    }
+  }
+}
